@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firechat-e8583": {
+      "hosting": {
+        "firechat": [
+          "firechat-e8583"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firechat-e8583"
+  }
+}
